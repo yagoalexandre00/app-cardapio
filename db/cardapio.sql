@@ -1,5 +1,5 @@
   
-CREATE DATABASE cardapio;
+-- CREATE DATABASE cardapio;
 
 USE cardapio;
 --

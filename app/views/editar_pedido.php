@@ -187,7 +187,7 @@ $dados = $consulta->fetch_array(MYSQLI_ASSOC);
         width: 19%;
         border-radius: 28px; 
         padding: 15px;
-        background-color: #red;
+        background-color: red;
     }
     li{
         margin: 3px;
